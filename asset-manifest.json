@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/modubanchan_front/static/css/main.ecba89a4.css",
+    "main.js": "/modubanchan_front/static/js/main.edde4287.js",
+    "static/media/i4.png": "/modubanchan_front/static/media/i4.672d88562b12fac924d1.png",
+    "static/media/i8.png": "/modubanchan_front/static/media/i8.eee7f2f2f817483f191c.png",
+    "static/media/i9.png": "/modubanchan_front/static/media/i9.b805b9c167b2513ca4dd.png",
+    "static/media/i1.png": "/modubanchan_front/static/media/i1.585c9e419c6a84624d8c.png",
+    "static/media/BMDOHYEON.otf": "/modubanchan_front/static/media/BMDOHYEON.48f23d8bc60a6d2bb96b.otf",
+    "static/media/i7.png": "/modubanchan_front/static/media/i7.60768097eb358c6fe96d.png",
+    "static/media/i3.png": "/modubanchan_front/static/media/i3.44e0ff25179e6928a147.png",
+    "static/media/i6.png": "/modubanchan_front/static/media/i6.5768059a4ade6beee59c.png",
+    "static/media/i5.png": "/modubanchan_front/static/media/i5.7e009470f3da11ba1b7f.png",
+    "static/media/profile.jpeg": "/modubanchan_front/static/media/profile.9afda266b255e50d3610.jpeg",
+    "static/media/BMDOHYEON.woff": "/modubanchan_front/static/media/BMDOHYEON.1b6d524c9c2ecca97750.woff",
+    "static/media/BMDOHYEON.woff2": "/modubanchan_front/static/media/BMDOHYEON.bb0b77c6e2a1a53123e5.woff2",
+    "static/media/i2.png": "/modubanchan_front/static/media/i2.e0c4bf4eb1468a1c03e9.png",
+    "static/media/logo.png": "/modubanchan_front/static/media/logo.1e3bfe40b6ba52f2d216.png",
+    "index.html": "/modubanchan_front/index.html",
+    "main.ecba89a4.css.map": "/modubanchan_front/static/css/main.ecba89a4.css.map",
+    "main.edde4287.js.map": "/modubanchan_front/static/js/main.edde4287.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecba89a4.css",
+    "static/js/main.edde4287.js"
+  ]
+}
